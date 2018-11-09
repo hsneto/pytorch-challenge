@@ -1,0 +1,8 @@
+# not done
+/docker/
+
+# vscode
+.vscode
+
+# jupyter
+.ipynb_checkpoints
