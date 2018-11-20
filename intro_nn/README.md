@@ -92,6 +92,7 @@ def perceptronStep(X, y, W, b, learn_rate = 0.01):
 ```
 
 **OUTPUT:**
+
 ![c10](docs/perceptron-algorithm.png)
 
 ### 14. Discrete vs Continuous
