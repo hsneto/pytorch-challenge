@@ -9,9 +9,7 @@
 weight1 = 1.0
 weight2 = 1.0
 bias = -1.5
-```
 
-```python
 # NOT PERCEPTRON
 weight1 = 0.0
 weight2 = -1.0
@@ -56,19 +54,21 @@ print("\nNum of iterations = " + str(t))
 ```
 
 **OUTPUT:**
-`0º iteration: w = [[3. 4.]], b = [[-10.]], output = [[-3.]]`
-`1º iteration: w = [[3.1 4.1]], b = [[-9.9]], output = [[-2.7]]`
-`2º iteration: w = [[3.2 4.2]], b = [[-9.8]], output = [[-2.4]]`
-`3º iteration: w = [[3.3 4.3]], b = [[-9.7]], output = [[-2.1]]`
-`4º iteration: w = [[3.4 4.4]], b = [[-9.6]], output = [[-1.8]]`
-`5º iteration: w = [[3.5 4.5]], b = [[-9.5]], output = [[-1.5]]`
-`6º iteration: w = [[3.6 4.6]], b = [[-9.4]], output = [[-1.2]]`
-`7º iteration: w = [[3.7 4.7]], b = [[-9.3]], output = [[-0.9]]`
-`8º iteration: w = [[3.8 4.8]], b = [[-9.2]], output = [[-0.6]]`
-`9º iteration: w = [[3.9 4.9]], b = [[-9.1]], output = [[-0.3]]`
-`10º iteration: w = [[4. 5.]], b = [[-9.]], output = [[-7.10542736e-15]]`
+```
+0º iteration: w = [[3. 4.]], b = [[-10.]], output = [[-3.]]
+1º iteration: w = [[3.1 4.1]], b = [[-9.9]], output = [[-2.7]]
+2º iteration: w = [[3.2 4.2]], b = [[-9.8]], output = [[-2.4]]
+3º iteration: w = [[3.3 4.3]], b = [[-9.7]], output = [[-2.1]]
+4º iteration: w = [[3.4 4.4]], b = [[-9.6]], output = [[-1.8]]
+5º iteration: w = [[3.5 4.5]], b = [[-9.5]], output = [[-1.5]]
+6º iteration: w = [[3.6 4.6]], b = [[-9.4]], output = [[-1.2]]
+7º iteration: w = [[3.7 4.7]], b = [[-9.3]], output = [[-0.9]]
+8º iteration: w = [[3.8 4.8]], b = [[-9.2]], output = [[-0.6]]
+9º iteration: w = [[3.9 4.9]], b = [[-9.1]], output = [[-0.3]]
+10º iteration: w = [[4. 5.]], b = [[-9.]], output = [[-7.10542736e-15]]
 
-`Num of iterations = 10`
+Num of iterations = 10
+```
 
 ### 10. Perceptron Algorithm
 
@@ -116,8 +116,10 @@ for p in points:
 ```
 
 **OUTPUT:**
-`The point (1, 1) has exactly a 50% probability of being red or blue!`
-`The point (-4, 5) has exactly a 50% probability of being red or blue!`
+```
+The point (1, 1) has exactly a 50% probability of being red or blue!
+The point (-4, 5) has exactly a 50% probability of being red or blue!
+```
 
 ### 20. Cross-Entropy 2
 
