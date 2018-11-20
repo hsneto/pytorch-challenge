@@ -7,7 +7,7 @@
 
 ## Syllabus
 
-1. Introduction to Neural Networks
+1. [Introduction to Neural Networks](/intro_nn/)
 1. Talking PyTorch with Soumith Chintala
 1. Introduction to PyTorch
 1. Convolutional Neural Networks
