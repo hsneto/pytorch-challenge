@@ -7,12 +7,12 @@
 
 ## Syllabus
 
-1. [Introduction to Neural Networks](/intro_nn/)
+1. [Introduction to Neural Networks](/intro-nn/)
 1. Talking PyTorch with Soumith Chintala
-1. Introduction to PyTorch
-1. Convolutional Neural Networks
-1. Style Transfer
-1. Recurrent Neural Networks
-1. Sentiment Predictions with RNNs
+1. [Introduction to PyTorch](/intro-pytorch/)
+1. [Convolutional Neural Networks](/cnn/)
+1. [Style Transfer](/style-transfer/)
+1. [Recurrent Neural Networks](/rnn/)
+1. [Sentiment Predictions with RNNs](/sentiment-rnn/)
 1. Deploying PyTorch Models
-1. Challenge Project
+1. [Challenge Project](/challenge-project/)

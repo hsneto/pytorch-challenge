@@ -140,4 +140,8 @@ def cross_entropy(Y, P):
 
 ### 26. Gradient Descent
 
-> [Notebook](GradientDescent.ipynb)
+> [Notebook](gradient-descent/GradientDescent.ipynb)
+
+### 35. Analyzing Student Data
+
+> [Notebook](student-admissions/StudentAdmissions.ipynb)
