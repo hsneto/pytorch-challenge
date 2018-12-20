@@ -1,0 +1,15 @@
+bokeh
+h5py
+ipykernel
+jupyter
+# matplotlib
+numpy
+opencv-python==3.2.0.6
+pandas
+pickleshare
+pillow
+scikit-image
+scikit-learn
+scipy
+seaborn
+tqdm

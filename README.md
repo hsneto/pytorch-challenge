@@ -16,3 +16,24 @@
 1. [Sentiment Predictions with RNNs](/sentiment-rnn/)
 1. Deploying PyTorch Models
 1. [Challenge Project](/challenge-project/)
+
+## Docker
+
+### [GPU Version](Dockerfile.gpu):
+
+```sh
+docker container run --rm -ti \
+    -p 8888:8888 \
+    -v ${pytorch-challenge-dir}:/src/ \
+    --runtime=nvidia \
+    hsneto/pytorch-challenge:cuda9.0-cudnn7-devel
+```
+
+### [CPU Version](Dockerfile.cpu):
+
+```sh
+docker container run --rm -ti \
+    -p 8888:8888 \
+    -v ${pytorch-challenge-dir}:/src/ \
+    hsneto/pytorch-challenge:cpu
+```

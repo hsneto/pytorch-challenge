@@ -1,8 +1,11 @@
-# not done
-/docker/
-
 # vscode
 .vscode
 
 # jupyter
 .ipynb_checkpoints
+
+# python
+__pycache__
+
+# pytorch checkpoints
+*.pth
