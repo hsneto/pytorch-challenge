@@ -17,9 +17,11 @@
 1. Deploying PyTorch Models
 1. [Challenge Project](/challenge-project/)
 
-## Docker
+---
 
-### [GPU Version](Dockerfile.gpu):
+### Docker
+
+[**GPU Version**](Dockerfile.gpu):
 
 ```sh
 docker container run --rm -ti \
@@ -29,7 +31,7 @@ docker container run --rm -ti \
     hsneto/pytorch-challenge:cuda9.0-cudnn7-devel
 ```
 
-### [CPU Version](Dockerfile.cpu):
+[**CPU Version**](Dockerfile.cpu):
 
 ```sh
 docker container run --rm -ti \
