@@ -1,4 +1,4 @@
-# Deep Learning with PyTorch
+# Introduction to PyTorch
 
 * **Part 1:** [Introduction to PyTorch and using tensors](Part%201%20-%20Tensors%20in%20PyTorch.ipynb)
 
