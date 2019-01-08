@@ -1,8 +1,8 @@
 # Style Transfer
 
-> [Notebook](Style_Transfer.ipynb)
+> **Part 1.** [Style Transfer](Style_Transfer.ipynb)
 
-> [Optional Notebook](Style_Transfer_2.ipynb) - Testing the class [StyleTransfer](style_transfer.py)
+> **Part 2.** [Style Transfer [optional]](Style_Transfer_2.ipynb) - Testing the class [StyleTransfer](style_transfer.py)
 
 ## Optional Resources
 
