@@ -15,7 +15,7 @@
 1. [Recurrent Neural Networks](/rnn/)
 1. [Sentiment Predictions with RNNs](/sentiment-rnn/)
 1. Deploying PyTorch Models
-1. [Challenge Project](/challenge-project/)
+1. [**Final Challenge Project**](/final-challenge-project/)
 
 ---
 
